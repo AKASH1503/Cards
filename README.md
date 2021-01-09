@@ -1,2 +1,10 @@
 # Cards
  Cards (.net API, SQL Server, AngularJS)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(29).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(30).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(31).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(32).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(33).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(34).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(35).png)
+![alt text](https://github.com/AKASH1503/Cards/blob/master/ScreenShots/Screenshot%20(36).png)
