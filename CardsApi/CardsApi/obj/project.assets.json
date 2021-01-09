@@ -9020,11 +9020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cSharp\\TestCards\\CardsApi\\CardsApi\\CardsApi.csproj",
+      "projectUniqueName": "D:\\cSharp\\TestCards\\Cards\\CardsApi\\CardsApi\\CardsApi.csproj",
       "projectName": "CardsApi",
-      "projectPath": "D:\\cSharp\\TestCards\\CardsApi\\CardsApi\\CardsApi.csproj",
+      "projectPath": "D:\\cSharp\\TestCards\\Cards\\CardsApi\\CardsApi\\CardsApi.csproj",
       "packagesPath": "C:\\Users\\Akash\\.nuget\\packages\\",
-      "outputPath": "D:\\cSharp\\TestCards\\CardsApi\\CardsApi\\obj\\",
+      "outputPath": "D:\\cSharp\\TestCards\\Cards\\CardsApi\\CardsApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

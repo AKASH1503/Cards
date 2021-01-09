@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2tNey1Px3X1YLP1Pn5lA/4iNiIwVMgNwZl+xR7AQvSqn/FbDqc2rOWhPP6TgeciQmdYEBc/g/7muv38DeqWKpw==",
+  "dgSpecHash": "yF/hb2AXWh5krZGtbcPTPtbUYBJIcNyVhnkPULjcwehyZdqxS4XbjUhWNJ4SyGw4aptr+rUCIN40bGinju3Jew==",
   "success": true,
-  "projectFilePath": "D:\\cSharp\\TestCards\\CardsApi\\CardsApi\\CardsApi.csproj",
+  "projectFilePath": "D:\\cSharp\\TestCards\\Cards\\CardsApi\\CardsApi\\CardsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Akash\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\Akash\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
