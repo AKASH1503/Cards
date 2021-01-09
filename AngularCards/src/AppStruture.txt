@@ -1,0 +1,17 @@
+. src
+    . app
+        . payment-details 
+        -- paymnet-details.component.ts|.html|.css
+        --. payment-detail
+          -- paymnet-detail.component.ts|.html|.css
+
+           .paymnet-detail-list
+           -- paymnet-detail-list.component.ts|.html|.css
+
+           .shared
+           -- paymnet-detail.services.ts
+           -- paymnet-detail.model.cs
+
+        -- app.module.ts
+
+    --inde.html
